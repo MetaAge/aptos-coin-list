@@ -1066,4 +1066,22 @@ export const REQUESTS: RawCoinInfo[] = [
       "data": []
     }
   },
+{  
+    "name": "GRADE",  
+    "symbol": "GRADE",  
+    "official_symbol": "GRADE",  
+    "coingecko_id": "",  
+    "decimals": 8,  
+    "logo_url": "https://raw.githubusercontent.com/MetaAge/aptos-coin-list/main/icons/GRADE.svg",  
+    "project_url": "https://skellieslab.com/",  
+    "token_type": {  
+      "type": "0x42e892263e4478376ed4b7dfba0543007c5a59f9e41298f767a365c5407a9cf1::GRADEcoin::GRADECoin",  
+      "account_address": "0x42e892263e4478376ed4b7dfba0543007c5a59f9e41298f767a365c5407a9cf1",  
+      "module_name": "GRADEcoin",  
+      "struct_name": "GRADECoin"  
+    },  
+    "extensions": {  
+      "data": [["bridge", "native"]]  
+    }  
+  },
 ];
